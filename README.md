@@ -1,1 +1,1 @@
-# football-trivia
+# aviation-trivia
